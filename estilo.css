@@ -1,0 +1,28 @@
+#principal{
+border: solid 2px #A9A9A9;
+padding: 5px;
+margin: 0 auto;
+width: 90%;
+background: #E6E6FA;
+}
+fieldset{
+	margin-bottom: 10px;
+	background: #E6E6FA;
+}
+legend{
+	border: solid 2px #696969;
+	padding: 5px;
+	font-weight: bold;
+	background: #E6E6FA;
+	border-radius: 15px;
+}
+#mifoto{
+	border: solid 2px #E6E6FA;
+	margin: 10px;
+}
+#peliculas{
+	padding: 5px;
+}
+body {
+	background:	#A9A9A9;
+}
